@@ -1,0 +1,1 @@
+const servidor = document.getElementById('servidor');
